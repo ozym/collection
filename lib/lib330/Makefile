@@ -6,13 +6,14 @@ SRCS	= libarchive.c libcvrt.c libnetserv.c libslider.c libverbose.c\
 	libcompress.c liblogs.c libsampcfg.c libsupport.c\
 	libcont.c libmd5.c libsample.c libtokens.c\
 	libctrldet.c libmsgs.c libseed.c libtypes.c\
+	libdss.c
 
 HDRS =	libarchive.h libclient.h libcmds.h libcompress.h libcont.h libctrldet.h\
 	libcvrt.h libdetect.h libfilters.h liblogs.h libmd5.h libmsgs.h\
 	libnetserv.h libopaque.h libpoc.h libsampcfg.h libsampglob.h\
  	libsample.h libseed.h libslider.h libstats.h libstrucs.h libsupport.h\
 	libtokens.h libtypes.h libverbose.h pascal.h platform.h q330cvrt.h\
-	q330io.h q330types.h
+        libdss.h q330io.h q330types.h
 
 
 
